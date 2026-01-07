@@ -1,0 +1,24 @@
+{
+    "timestamp": "2025-11-22 09:41:08.485338",
+    "health_metrics": {
+        "successful_builds": 2.0,
+        "failed_builds": 2.0,
+        "unstable_builds": 0.0,
+        "aborted_builds": 0.0,
+        "total_builds": 4.0,
+        "executor_busy": 0.0,
+        "executor_total": 2.0,
+        "queue_size": 0.0,
+        "memory_used": 337790424.0,
+        "memory_max": 268435455.0
+    },
+    "security_metrics": {
+        "outdated_plugins": 2,
+        "critical_vulnerabilities": 1,
+        "user_accounts_admin": 3,
+        "missing_auth_settings": 0
+    },
+    "health_score": 50.0,
+    "security_score": 60,
+    "final_score": 54.0
+}
